@@ -55,6 +55,16 @@ Feedback: Logs and results are analyzed for improvements.
 
 🔮 Future Improvements
 Reduce detection latency
+---
+
+👤 Author
+
+Developed by Saurav Pokhrel
+
+🎓 Postgraduate in Computer System Technology & Networking (Centennial College)
+
+🎓 Bachelor’s in Ethical Hacking & Cybersecurity (Coventry University)
+
 
 Add mobile notification support (via MQTT/IoT platforms)
 
