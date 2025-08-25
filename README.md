@@ -55,6 +55,12 @@ Feedback: Logs and results are analyzed for improvements.
 
 🔮 Future Improvements
 Reduce detection latency
+Add mobile notification support (via MQTT/IoT platforms)
+
+Improve firmware to detect multiple attack types
+
+Optimize cost for wider usability
+
 ---
 
 👤 Author
@@ -66,8 +72,3 @@ Developed by Saurav Pokhrel
 🎓 Bachelor’s in Ethical Hacking & Cybersecurity (Coventry University)
 
 
-Add mobile notification support (via MQTT/IoT platforms)
-
-Improve firmware to detect multiple attack types
-
-Optimize cost for wider usability
